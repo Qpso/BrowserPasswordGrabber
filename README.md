@@ -12,7 +12,7 @@ Follow these steps to set up and run the password grabber:
    - Create a folder called `WebPass` in the `D:\` drive.
 
 2. **Download WebBrowserPassViewer**
-   - Download the program `WebBrowserPassViewer`.
+   - Download the program [WebBrowserPassViewer](https://www.nirsoft.net/utils/web_browser_password.html).
    - Put `WebBrowserPassView.exe` and `WebBrowserPassView.cfg` in the `WebPass` folder you created in step 1.
 
 3. **Install Dependencies**
