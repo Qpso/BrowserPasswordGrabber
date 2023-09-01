@@ -29,9 +29,9 @@ Follow these steps to set up and run the password grabber:
    - The stolen passwords will be saved in a folder called `WebPass_Copied`.
    - You can find the passwords at `D:\WebPass_Copied\passwords.txt`.
 
-Alternatively, you can run the provided executable after completing the above steps instead of running the script.
+Alternatively, you can run the provided executable after completing the above steps instead of running the script, This is my first attempt at a script like this, and I'm not oblivious to the many inefficient techniques I've used. So, if you have any suggestions or have found any bugs, please let me know.
 
-**Note:** Please use this script responsibly and only on systems you have permission to access. Unauthorized use of this script may violate privacy and legal regulations.
+**Note:** Please use this script responsibly and only on systems you have permission to access. Unauthorized use of this script may violate privacy and legal regulations. Also this script has a hard time running with Windows 11 sometimes.
 
 
 ## Disclaimer
