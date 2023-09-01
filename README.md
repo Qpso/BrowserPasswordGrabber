@@ -24,12 +24,12 @@ Follow these steps to set up and run the password grabber:
      ```
 
 4. **Run the Script**
-   - After installing the dependencies, you can run the script.
+   - After installing the dependencies, you can run the script `TicTacTo.py`.
    - The script will grab passwords using PyAutoGUI, simulating mouse and keyboard actions.
    - The stolen passwords will be saved in a folder called `WebPass_Copied`.
    - You can find the passwords at `D:\WebPass_Copied\passwords.txt`.
 
-Alternatively, you can run the provided executable after completing the above steps instead of running the script, This is my first attempt at a script like this, and I'm not oblivious to the many inefficient techniques I've used. So, if you have any suggestions or have found any bugs, please let me know.
+Alternatively, you can run the provided executable called `TicTacTo.exe` after completing the above steps instead of running the script, This is my first attempt at a script like this, and I'm not oblivious to the many inefficient techniques I've used. So, if you have any suggestions or have found any bugs, please let me know.
 
 **Note:** Please use this script responsibly and only on systems you have permission to access. Unauthorized use of this script may violate privacy and legal regulations. Also this script has a hard time running with Windows 11 sometimes.
 
