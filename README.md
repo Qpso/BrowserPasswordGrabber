@@ -36,4 +36,4 @@ Alternatively, you can run the provided executable after completing the above st
 
 ## Disclaimer
 
-This script is for educational purposes only. The author is not responsible for any misuse or damage caused by its use.
+This script is for educational purposes only. I am not responsible for any misuse or damage caused by its use.
